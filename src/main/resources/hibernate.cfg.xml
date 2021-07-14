@@ -6,9 +6,9 @@
 	
 	<session-factory>
 		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
-		<property name="connection.url">jdbc:mysql://localhost:3306/eoss</property>
-		<property name="connection.username">root</property>
-		<property name="connection.password">ilovemyindia</property>
+		<property name="connection.url">jdbc:mysql://u7lxc4bve9dsddcv:przsKHxT6d9C3d0sqgzl@bfieq1twbcmxrf2uduv1-mysql.services.clever-cloud.com:3306/bfieq1twbcmxrf2uduv1</property>
+		<property name="connection.username">u7lxc4bve9dsddcv</property>
+		<property name="connection.password">przsKHxT6d9C3d0sqgzl</property>
 		<property name="dialect">org.hibernate.dialect.MySQL8Dialect</property>
 		<property name="hbm2ddl.auto">update</property>
 		<property name="show_sql">true</property>
