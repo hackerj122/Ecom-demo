@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+.div1{
+	font-size: 17px;
+    color: #212121;
+    line-height: 1.4;
+    font-family: Roboto,Arial,sans-serif;
+    padding: 0;
+    
+	display: flex;
+	
+	align-items: center;
+	
+}
+.div2{
+	margin-bottom: 20px;
+	flex-direction: row;
+}
+.div3{
+	max-width: 50%;
+	flex-direction: row;
+	margin-bottom: 20px;
+}
+.h3{
+color:black;
+}
+h4{
+	color:gray;
+}
+.tog{
+	border-radius:50%;
+	
+}

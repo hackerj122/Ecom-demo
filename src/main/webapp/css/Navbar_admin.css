@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+.bg{
+	background:transparent;
+}
+
+.bbtn{
+	border:none;
+	margin-left:80px !important;
+}

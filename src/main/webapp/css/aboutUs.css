@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+/*	.container-about100 {
+	
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}*/
+.card {
+  flex-direction: row !important;
+  background:rgba(0,48,255,0.4265056364342612) !important;
+  width: 40% !important;
+  height:250px !important;
+}
+.card1{
+	align-self: center;
+}
